@@ -123,11 +123,11 @@ function App() {
     <div id="container"> 
       <div id="logo-bar">
         <div id="logo-area">
-          <img src="./src/assets/logo.png"></img>
+          <img src="/Logo.png"></img>
         </div>
 
         <div id="shopping-icon-area">
-          <img id="shopping-icon" onClick={showBasket} src="./src/assets/shopping-basket.png"></img>
+          <img id="shopping-icon" onClick={showBasket} src="/shopping-basket.png"></img>
         </div>
 
         <div id="shopping-area">
